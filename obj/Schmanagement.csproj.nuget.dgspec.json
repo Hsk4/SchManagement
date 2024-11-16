@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\web.APTECHTR\\source\\repos\\Schmanagement\\Schmanagement.csproj": {}
+    "D:\\Program Files\\repos\\SchManagement\\Schmanagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\web.APTECHTR\\source\\repos\\Schmanagement\\Schmanagement.csproj": {
+    "D:\\Program Files\\repos\\SchManagement\\Schmanagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\web.APTECHTR\\source\\repos\\Schmanagement\\Schmanagement.csproj",
+        "projectUniqueName": "D:\\Program Files\\repos\\SchManagement\\Schmanagement.csproj",
         "projectName": "Schmanagement",
-        "projectPath": "C:\\Users\\web.APTECHTR\\source\\repos\\Schmanagement\\Schmanagement.csproj",
-        "packagesPath": "C:\\Users\\web.APTECHTR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\web.APTECHTR\\source\\repos\\Schmanagement\\obj\\",
+        "projectPath": "D:\\Program Files\\repos\\SchManagement\\Schmanagement.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Program Files\\repos\\SchManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\web.APTECHTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,42 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

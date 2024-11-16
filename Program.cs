@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Schmanagement.Models;
+
 namespace Schmanagement
 {
     public class Program
@@ -8,7 +11,13 @@ namespace Schmanagement
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<ProjectDbContext>(
 
+                options => options.UseSqlServer(builder.Configuration.GetConnectionString("Dbcs"))
+                
+                
+                );
+            builder.Services.AddSession();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -19,6 +28,7 @@ namespace Schmanagement
                 app.UseHsts();
             }
 
+            app.UseSession();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
@@ -28,7 +38,7 @@ namespace Schmanagement
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Admin}/{action=Login}/{id?}");
 
             app.Run();
         }

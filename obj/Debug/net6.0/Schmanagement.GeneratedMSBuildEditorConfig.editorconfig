@@ -9,37 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Schmanagement
 build_property.RootNamespace = Schmanagement
-build_property.ProjectDir = C:\Users\web.APTECHTR\source\repos\Schmanagement\
+build_property.ProjectDir = D:\Program Files\repos\SchManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\web.APTECHTR\source\repos\Schmanagement
+build_property.MSBuildProjectDirectory = D:\Program Files\repos\SchManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/web.APTECHTR/source/repos/Schmanagement/Views/Home/Index.cshtml]
+[D:/Program Files/repos/SchManagement/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/repos/SchManagement/Views/Admin/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/repos/SchManagement/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/web.APTECHTR/source/repos/Schmanagement/Views/Home/Privacy.cshtml]
+[D:/Program Files/repos/SchManagement/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/web.APTECHTR/source/repos/Schmanagement/Views/Shared/Error.cshtml]
+[D:/Program Files/repos/SchManagement/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/web.APTECHTR/source/repos/Schmanagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Program Files/repos/SchManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/web.APTECHTR/source/repos/Schmanagement/Views/_ViewImports.cshtml]
+[D:/Program Files/repos/SchManagement/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/web.APTECHTR/source/repos/Schmanagement/Views/_ViewStart.cshtml]
+[D:/Program Files/repos/SchManagement/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/web.APTECHTR/source/repos/Schmanagement/Views/Shared/_Layout.cshtml]
+[D:/Program Files/repos/SchManagement/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-h1dt6y131l
