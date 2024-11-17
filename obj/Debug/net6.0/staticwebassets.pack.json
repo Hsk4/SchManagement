@@ -593,6 +593,1086 @@
       "PackagePath": "staticwebassets\\tilt\\tilt.jquery.min.js"
     },
     {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\css\\bootstrap-extended.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\css\\bootstrap-extended.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\css\\extra-icons.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\css\\extra-icons.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\css\\pace.min.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\css\\pace.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\01.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\01.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\02.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\02.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\03.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\03.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\04.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\04.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\05.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\05.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\06.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\06.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\07.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\07.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\08.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\08.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\09.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\09.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\10.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\10.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\11.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\11.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\12.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\12.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\13.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\13.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\14.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\14.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\15.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\15.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\16.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\16.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\17.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\17.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\18.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\18.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\19.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\19.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\20.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\20.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\amazon.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\amazon.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\apple.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\apple.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\behance.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\behance.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\gift-box-2.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\gift-box-2.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\gift-box-3.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\gift-box-3.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\gift-box.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\gift-box.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\party-popper.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\party-popper.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\paypal.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\paypal.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\apps\\twitter-circle.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\apps\\twitter-circle.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\auth\\forgot-password1.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\auth\\forgot-password1.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\auth\\login1.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\auth\\login1.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\auth\\register1.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\auth\\register1.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\auth\\reset-password1.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\auth\\reset-password1.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\01.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\01.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\02.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\02.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\03.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\03.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\04.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\04.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\05.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\05.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\06.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\06.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\07.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\07.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\08.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\08.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\09.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\09.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\10.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\10.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\11.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\11.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\avatars\\12.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\avatars\\12.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\bg-themes\\body-background-1.webp",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\bg-themes\\body-background-1.webp"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\01.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\01.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\02.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\02.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\03.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\03.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\04.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\04.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\05.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\05.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\06.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\06.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\07.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\07.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\08.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\08.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\09.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\09.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\10.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\10.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\11.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\11.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\12.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\12.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\13.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\13.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\14.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\14.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\carousels\\15.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\carousels\\15.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\cat\\01.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\cat\\01.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\cat\\02.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\cat\\02.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\cat\\03.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\cat\\03.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\cat\\04.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\cat\\04.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\cat\\05.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\cat\\05.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\cat\\06.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\cat\\06.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\county\\01.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\county\\01.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\county\\02.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\county\\02.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\county\\03.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\county\\03.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\county\\04.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\county\\04.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\county\\05.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\county\\05.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\county\\06.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\county\\06.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\county\\07.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\county\\07.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\county\\08.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\county\\08.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\01.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\02.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\02.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\03.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\03.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\04.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\04.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\05.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\05.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\06.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\06.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\07.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\07.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\08.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\08.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\09.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\09.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\10.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\10.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\11.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\11.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\12.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\12.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\13.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\13.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\14.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\14.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\15.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\15.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\16.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\16.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\17.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\17.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\18.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\18.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\19.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\19.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\20.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\20.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\21.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\21.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\22.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\22.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\23.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\23.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\24.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\24.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\25.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\25.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\26.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\26.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\profile-cover-min.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\profile-cover-min.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\gallery\\welcome-back-3.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\gallery\\welcome-back-3.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\logo1.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\01.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\01.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\02.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\02.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\03.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\03.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\04.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\04.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\05.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\05.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\06.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\06.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\07.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\07.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\08.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\08.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\09.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\09.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\10.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\10.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\11.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\11.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\12.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\12.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\megaIcons\\13.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\megaIcons\\13.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\orders\\01.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\orders\\01.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\orders\\02.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\orders\\02.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\orders\\03.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\orders\\03.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\orders\\04.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\orders\\04.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\orders\\05.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\orders\\05.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\orders\\06.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\orders\\06.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\orders\\07.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\orders\\07.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\orders\\08.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\orders\\08.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\orders\\09.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\orders\\09.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\projects\\angular.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\projects\\angular.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\projects\\bootstrap.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\projects\\bootstrap.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\projects\\django.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\projects\\django.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\projects\\magento.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\projects\\magento.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\projects\\python.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\projects\\python.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\projects\\react.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\projects\\react.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\projects\\vue.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\projects\\vue.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\top-products\\01.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\top-products\\01.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\top-products\\02.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\top-products\\02.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\top-products\\03.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\top-products\\03.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\top-products\\04.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\top-products\\04.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\top-products\\05.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\top-products\\05.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\top-products\\06.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\top-products\\06.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\images\\top-products\\07.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\images\\top-products\\07.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\js\\dashboard1.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\js\\dashboard1.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\js\\dashboard2.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\js\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\js\\data-widgets.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\js\\data-widgets.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\js\\index2.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\js\\index2.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\js\\pace.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\apexchart\\apex-custom-chart.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\apexchart\\apex-custom-chart.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\apexchart\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\apexchart\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\apexchart\\data-cards.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\apexchart\\data-cards.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\bs-stepper\\css\\custom.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\bs-stepper\\css\\custom.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\index.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\index.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\index.spec.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\index.spec.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\listeners.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\listeners.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\main.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\polyfill.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\polyfill.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\util.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\bs-stepper\\js\\util.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\chartjs\\js\\chart.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\chartjs\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\chartjs\\js\\chartjs-custom.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\chartjs\\js\\chartjs-custom.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\form-repeater\\repeater.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\form-repeater\\repeater.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fullcalendar\\css\\main.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fullcalendar\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fullcalendar\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fullcalendar\\css\\main.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fullcalendar\\js\\main.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fullcalendar\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\fullcalendar\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\fullcalendar\\js\\main.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\gmaps\\map-custom-script.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\gmaps\\map-custom-script.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\input-tags\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\input-tags\\css\\tagsinput.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\metismenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\metismenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\metismenu\\metisMenu.min.css.map",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\metismenu\\metisMenu.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\metismenu\\metisMenu.min.js.map",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\metismenu\\metisMenu.min.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\metismenu\\mm-vertical.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\metismenu\\mm-vertical.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\css\\lobibox.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\css\\lobibox.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\css\\lobibox.min.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\css\\lobibox.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\img\\3.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\img\\4.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\img\\5.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\img\\6.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\js\\lobibox.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\js\\lobibox.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\js\\messageboxes.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\js\\messageboxes.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\js\\messageboxes.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\js\\messageboxes.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\js\\notifications.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\js\\notifications.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound1.ogg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound1.ogg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound2.ogg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound2.ogg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound3.ogg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound3.ogg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound4.ogg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound4.ogg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound5.ogg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound5.ogg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound6.ogg",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\notifications\\sounds\\sound6.ogg"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\select2\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\select2\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\select2\\js\\select2-custom.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\select2\\js\\select2-custom.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\validation\\validation-script.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\validation\\validation-script.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\assets\\plugins\\vectormap\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\vertical-menu\\assets\\plugins\\vectormap\\jvectormap.custom.js"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\blue-theme.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\blue-theme.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\blue-theme.css.map",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\blue-theme.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\blue-theme.scss",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\blue-theme.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\bordered-theme.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\bordered-theme.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\bordered-theme.css.map",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\bordered-theme.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\bordered-theme.scss",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\bordered-theme.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\dark-theme.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\dark-theme.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\dark-theme.css.map",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\dark-theme.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\dark-theme.scss",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\dark-theme.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\main.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\main.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\main.css.map",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\main.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\main.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\responsive.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\responsive.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\responsive.css.map",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\responsive.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\responsive.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\semi-dark.css",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\semi-dark.css"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\semi-dark.css.map",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\semi-dark.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\repos\\SchManagement\\wwwroot\\vertical-menu\\sass\\semi-dark.scss",
+      "PackagePath": "staticwebassets\\vertical-menu\\sass\\semi-dark.scss"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Schmanagement.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

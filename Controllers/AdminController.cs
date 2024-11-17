@@ -60,7 +60,7 @@ namespace Schmanagement.Controllers
                 if (myuser != null)
                 {
                     HttpContext.Session.SetString("userSession", Admins.Email);
-                    return RedirectToAction("Index" , "Home");
+                    return RedirectToAction("DashBoard");
 
 
                 }
@@ -70,6 +70,21 @@ namespace Schmanagement.Controllers
                 }
                 return View();
             }
+
+        //DASHBOARD
+        public IActionResult DashBoard()
+        {
+            if (HttpContext.Session.GetString("userSession") != null)
+            {
+                ViewBag.MySession = HttpContext.Session.GetString("userSession");
+            }
+            else
+            {
+                return RedirectToAction("Login");
+            }
+            return View();
+        }
+
 
 
 
