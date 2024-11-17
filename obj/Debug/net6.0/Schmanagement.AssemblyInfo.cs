@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Schmanagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa0273b0727473b71eb4f7ab0882efc10c0ffc44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a255b48add83f9f82566582e1d0bffb963c898a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Schmanagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Schmanagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
