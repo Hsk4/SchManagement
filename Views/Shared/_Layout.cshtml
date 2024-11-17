@@ -1,4 +1,10 @@
-﻿<!DOCTYPE html>
+﻿@{
+    var hideNavbar = ViewData["HideNavbar"] as bool? ?? false;
+}
+
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -26,7 +32,8 @@
 
 </head>
 <body>
-  
+    @if (!hideNavbar)
+        {
      <header class="top-header">
     <nav class="navbar navbar-expand align-items-center gap-4">
       <div class="btn-toggle">
@@ -577,10 +584,7 @@
           </div>
         </li>
         <li class="nav-item d-md-flex d-none">
-          <a class="nav-link position-relative" data-bs-toggle="offcanvas" href="#offcanvasCart"><i
-              class="material-icons-outlined">shopping_cart</i>
-            <span class="badge-notify">8</span>
-          </a>
+                    @ViewBag.MySession
         </li>
         <li class="nav-item dropdown">
           <a href="javascrpt:;" class="dropdown-toggle dropdown-toggle-nocaret" data-bs-toggle="dropdown">
@@ -613,18 +617,20 @@
       </ul>
 
     </nav>
-    <div class="container main-wrapper">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
-
+   
 
 
   </header>
+        }
 
+        <div class="container main-wrapper">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
 
-
+    @if (!hideNavbar)
+        {
    <aside class="sidebar-wrapper" data-simplebar="true">
     <div class="sidebar-header">
       <div class="logo-icon">
@@ -975,7 +981,7 @@
         <!--end navigation-->
     </div>
   </aside>
-
+        }
 
 
 
