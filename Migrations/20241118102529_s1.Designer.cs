@@ -11,8 +11,8 @@ using Schmanagement.Models;
 namespace Schmanagement.Migrations
 {
     [DbContext(typeof(ProjectDbContext))]
-    [Migration("20241117182101_m3")]
-    partial class m3
+    [Migration("20241118102529_s1")]
+    partial class s1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
